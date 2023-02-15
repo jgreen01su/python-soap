@@ -10,4 +10,4 @@ panopto-python-soap = {editable = true,path = "."}
 plone-event = "*"
 
 [requires]
-python_version = "3.7"
+python_version = "3.8"
